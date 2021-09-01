@@ -1,0 +1,108 @@
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Form1.resources
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.Cache
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.SanPham.resources
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhanVien.resources
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.HoaDon.resources
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.KhoiTaoDuLieu.resources
+C:\Users\ADMINTPHCM\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhapHang.resources
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Form1.resources
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.HoaDon.resources
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.KhoiTaoDuLieu.resources
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhanVien.resources
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhapHang.resources
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.SanPham.resources
+C:\Users\Thanh Cong\Desktop\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.Cache
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Form1.resources
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.HoaDon.resources
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.KhoiTaoDuLieu.resources
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhanVien.resources
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhapHang.resources
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.SanPham.resources
+C:\Users\Thanh Cong\Desktop\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.Cache
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Form1.resources
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.HoaDon.resources
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.KhoiTaoDuLieu.resources
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhanVien.resources
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhapHang.resources
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.SanPham.resources
+D:\DA_CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Form1.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.HoaDon.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.KhoiTaoDuLieu.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhanVien.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhapHang.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.SanPham.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.CTHoaDon.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.KhachHang.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.BangChamCong.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Report.resources
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\RdlCompile.cache
+C:\Users\PC\Desktop\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\RdlCompile.compiled
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe.config
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.exe
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ShopQuanAo.pdb
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojAssemblyReference.cache
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.BangChamCong.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.CTHoaDon.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Form1.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.HoaDon.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.KhachHang.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.KhoiTaoDuLieu.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhanVien.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.NhapHang.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Properties.Resources.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.Report.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.SanPham.resources
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.GenerateResource.cache
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.exe
+C:\Users\duong\Downloads\File\KDPM+CNPM\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
